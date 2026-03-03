@@ -1,0 +1,8 @@
+🛠️ Components Used
+🧩 Arduino UNO
+⚙️ L293D Motor Driver Shield
+📡 HC-SR04 Ultrasonic Sensor
+🔄 Servo Motor (SG90 or similar)
+🛞 2 DC Motors + Wheels
+🔋 7–12V Battery (for motors)
+🧺 Dustbin body / chassis
