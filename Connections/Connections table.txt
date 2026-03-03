@@ -1,0 +1,26 @@
+🔌 Pin Connections
+📡 Ultrasonic Sensor (HC-SR04)
+| Ultrasonic Pin | Arduino Pin |
+| -------------- | ----------- |
+| VCC            | 5V          |
+| GND            | GND         |
+| TRIG           | A4          |
+| ECHO           | A5          |
+
+🔄 Servo Motor
+| Servo Wire    | Connection             |
+| ------------- | ---------------------- |
+| Red           | 5V                     |
+| Brown/Black   | GND                    |
+| Yellow/Orange | D10 (Servo1 on Shield) |
+
+🛞 Motors
+Motor 1 → M1 terminal on shield
+Motor 2 → M2 terminal on shield
+External battery → Motor power terminal
+Ensure GND is common
+
+⚙️ Required Library
+Install from Arduino Library Manager:
+AFMotor
+Servo
